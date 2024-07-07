@@ -1,5 +1,5 @@
 html {
-    background-color: #bebebe;
+    background-color: #f1f5f9;
     font-family: sans-serif;
   }
   
@@ -76,7 +76,7 @@ html {
       display: inline-block;
       padding: 15px 20px;
     }
-    
+
     .hamburger {
         display: none;
       }
